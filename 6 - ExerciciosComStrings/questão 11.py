@@ -34,3 +34,5 @@ A palavra era {aleatoria}''')
     if False not in lista:
         print('Você ganhou!')
         break
+
+palavras.close()
